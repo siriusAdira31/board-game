@@ -1,0 +1,8 @@
+# Grid Configuration
+
+BOARD_ROWS = 3
+BOARD_COLUMNS = 4
+WIN_STATE = (0, 3)
+LOSE_STATE = (1, 3)
+START = (2, 0)
+DETERMINISTIC = True
